@@ -1,7 +1,12 @@
 import React from "react";
 
-function App() {
-  return <div>Hello World</div>;
+// import Page from "./component/page";
+// import Homepage from "./container/homepage";
+
+function App(){
+  return 
+<div> Hello World </div>
+ 
 }
 
 export default App;
