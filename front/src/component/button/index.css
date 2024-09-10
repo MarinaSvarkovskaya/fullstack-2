@@ -1,5 +1,31 @@
-.grid {
-    display: flex;
-    flex-direction: column;
-    gap: 20px;
+.button {
+    width: 353px;
+    height: 56px;
+    border-radius: 12px;
+    border: 1px solid #775CE5;
+    padding: 20px 140px 20px 140px;
+    gap: 10px
+}
+
+.button--light {
+    color: #FFFFFF;
+}
+
+.button--dark {
+    color: #775CE5;
+}
+
+.button_text {
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 16px;
+    align-content: center;
+}
+
+.button_text--light{
+    color:#FFFFFF;
+}
+
+.button_text--dark{
+    color: #775CE5;
 }
